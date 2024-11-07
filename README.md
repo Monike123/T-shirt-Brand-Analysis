@@ -14,4 +14,10 @@ This repository contains a comprehensive analysis of T-shirt brand data, leverag
 2. **Data Cleaning & Preprocessing**: Combined multiple datasets, cleaned the data, and handled any inconsistencies using Python.
 3. **Data Visualization**: Imported the preprocessed data into Power BI to create a detailed, interactive dashboard showing key metrics such as sales trends, popular styles, and customer demographics.
 
+### Data Info
+1. All the Data is original and scrapped by myself
+2. bewakoof_combine is combine data of bewakoof men and bewakoof women
+3. if web scrapper py is needed put a comment ill upload that to 
+
 This analysis provides valuable insights to guide strategic decisions for enhancing brand performance and aligning product offerings with customer demand.
+
