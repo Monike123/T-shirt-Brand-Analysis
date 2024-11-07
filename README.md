@@ -22,6 +22,7 @@ This repository contains a comprehensive analysis of T-shirt brand data, leverag
 This analysis provides valuable insights to guide strategic decisions for enhancing brand performance and aligning product offerings with customer demand.
 
 # OverView:
-![Screenshot 2024-11-07 035130](https://github.com/user-attachments/assets/edcd4a1e-3322-4336-8fb9-79db744b981b)
+![Screenshot 2024-11-07 035130](https://github.com/user-attachments/assets/a3651a9a-6f72-4d93-a79d-94c49f791225)
+
 
 
